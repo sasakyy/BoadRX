@@ -1,0 +1,2 @@
+# BoadRX
+Multipurpose Discord bot
